@@ -1,6 +1,3 @@
-import { reactive } from "vue";
-import { useRouter } from "vue-router";
-
 export default function useQuiz(step, quiz) {
   const values = reactive([]);
   const router = useRouter();
