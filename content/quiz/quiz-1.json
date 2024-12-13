@@ -1,0 +1,31 @@
+{
+  "slug": "quiz-1",
+  "title": "Quiz Capital",
+  "questions": [
+    {
+      "question": "Quelle la capital de la Chine?",
+      "answers": ["Shanghai", "Beijing", "Hong Kong", "Tokyo"],
+      "correct": 1
+    },
+    {
+      "question": "Quelle la capital de la France?",
+      "answers": ["Lyon", "Marseille", "Paris", "Nice"],
+      "correct": 2
+    },
+    {
+      "question": "Quelle la capital de l'Espagne?",
+      "answers": ["Madrid", "Barcelona", "Valencia", "Seville"],
+      "correct": 0
+    },
+    {
+      "question": "Quelle la capital de l'Italie?",
+      "answers": ["Milan", "Rome", "Venise", "Florence"],
+      "correct": 1
+    },
+    {
+      "question": "Quelle la capital de l'Allemagne?",
+      "answers": ["Berlin", "Munich", "Hambourg", "Cologne"],
+      "correct": 0
+    }
+  ]
+}

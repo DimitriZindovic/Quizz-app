@@ -1,0 +1,41 @@
+{
+  "slug": "quiz-2",
+  "title": "Quiz Histoire de France",
+  "questions": [
+    {
+      "question": "Quelle est la date de la prise de la Bastille?",
+      "answers": [
+        "14 juillet 1789",
+        "14 juillet 1790",
+        "14 juillet 1791",
+        "14 juillet 1792"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Quelle est la première dynastie française?",
+      "answers": [
+        "Les Carolingiens",
+        "Les Capétiens",
+        "Les Mérovingiens",
+        "Les Valois"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Quel roi de France a été surnommé le roi soleil?",
+      "answers": ["Louis XV", "Louis XVI", "Louis XIII", "Louis XIV"],
+      "correct": 3
+    },
+    {
+      "question": "Quel est le nom du premier empereur des français?",
+      "answers": ["Napoléon II", "Napoléon III", "Napoléon Ier", "Napoléon IV"],
+      "correct": 2
+    },
+    {
+      "question": "Quel est le nom du dernier roi de France?",
+      "answers": ["Louis XVIII", "Louis XIX", "Louis XX", "Louis XVI"],
+      "correct": 0
+    }
+  ]
+}

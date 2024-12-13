@@ -1,0 +1,46 @@
+{
+  "slug": "quiz-3",
+  "title": "Quiz Sport",
+  "questions": [
+    {
+      "question": "Quel sportif a remporté le dernier Tour de France?",
+      "answers": [
+        "Jonas Vingegaard",
+        "Tadej Pogacar",
+        "Richard Carapaz",
+        "Primoz Roglic"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Combien d'Open d'Australie a remporté Novak Djokovic?",
+      "answers": ["8", "9", "10", "11"],
+      "correct": 2
+    },
+    {
+      "question": "Qui étaitent en finale du tournoi de tennis masculin des jo 2024 à Paris ?",
+      "answers": [
+        "Novak Djokovic vs Carlos Alcaraz",
+        "Novak Djokovic vs Alexander Zverev",
+        "Carlos Alcaraz vs Alexander Zverev",
+        "Novak Djokovic vs Rafael Nadal"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Quel pilote à le plus de victoire en f1?",
+      "answers": [
+        "Michael Schumacher",
+        "Lewis Hamilton",
+        "Ayrton Senna",
+        "Sebastian Vettel"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Combien de temps a durée le match de tennis le plus long de l'histoire?",
+      "answers": ["8h05", "9h05", "10h05", "11h05"],
+      "correct": 3
+    }
+  ]
+}
