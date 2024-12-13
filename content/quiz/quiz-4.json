@@ -1,0 +1,31 @@
+{
+  "slug": "quiz-3",
+  "title": "Quiz Espace",
+  "questions": [
+    {
+      "question": "Quelle est la plus grande planète du système solaire?",
+      "answers": ["Jupiter", "Saturne", "Uranus", "Neptune"],
+      "correct": 0
+    },
+    {
+      "question": "Quelle est la plus petite planète du système solaire?",
+      "answers": ["Mercure", "Vénus", "Terre", "Mars"],
+      "correct": 0
+    },
+    {
+      "question": "Quelle est la planète la plus proche du soleil?",
+      "answers": ["Mercure", "Vénus", "Terre", "Mars"],
+      "correct": 0
+    },
+    {
+      "question": "Quelle est la planète la plus éloignée du soleil?",
+      "answers": ["Mercure", "Vénus", "Terre", "Mars"],
+      "correct": 3
+    },
+    {
+      "question": "Quelle est la planète la plus chaude du système solaire?",
+      "answers": ["Mercure", "Vénus", "Terre", "Mars"],
+      "correct": 1
+    }
+  ]
+}
