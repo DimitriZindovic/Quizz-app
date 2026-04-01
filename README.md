@@ -1,75 +1,38 @@
-# Nuxt Minimal Starter
-
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
-
-## Setup
-
-Make sure to install dependencies:
-
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+- [ ] Aqua Affinity
+- [ ] Bane of Arthropods (V)
+- [ ] Blast Protection (IV)
+- [ ] Breach (IV)
+- [ ] Channeling
+- [ ] Density (V)
+- [ ] Depth Strider (III)
+- [ ] Efficiency (V)
+- [ ] Feather Falling (IV)
+- [ ] Fire Aspect (II)
+- [ ] Fire Protection (IV)
+- [ ] Flame
+- [ ] Fortune (III)
+- [ ] Frost Walker (II)
+- [ ] Impaling (V)
+- [ ] Infinity (I)
+- [ ] Knockback (II)
+- [ ] Looting (III)
+- [ ] Loyalty (III)
+- [ ] Luck of the Sea (III)
+- [ ] Lunge (III)
+- [ ] Lure (III)
+- [ ] Mending
+- [ ] Multishot
+- [ ] Piercing (IV)
+- [ ] Power (V)
+- [ ] Projectile Protection (IV)
+- [ ] Protection (IV)
+- [ ] Punch (II)
+- [ ] Quick Charge (III)
+- [ ] Respiration (III)
+- [ ] Riptide (III)
+- [ ] Sharpness (V)
+- [ ] Silk Touch
+- [ ] Smite (V)
+- [ ] Sweeping Edge‌ (III)
+- [ ] Thorns (III)
+- [ ] Unbreaking (III)
